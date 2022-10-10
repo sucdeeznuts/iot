@@ -1,0 +1,1 @@
+wget  -O  /home/pi/lcd1602.py     https://www.mbtechworks.com/files/lcd1602.py
