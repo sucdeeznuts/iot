@@ -1,0 +1,15 @@
+//commands to run if packages not installed for temperature resistor//
+
+1)  wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.55.tar.gz
+
+2)  tar zxvf bcm2835-1.55.tar.gz
+
+3)  cd bcm2835-1.55/
+
+4)  ./configure
+
+5)  make
+
+6)  sudo make check
+
+7)  sudo make install
